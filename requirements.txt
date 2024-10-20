@@ -1,0 +1,12 @@
+streamlit
+pandas
+altair
+numpy
+python-dotenv
+requests
+schedule
+beautifulsoup4
+psycopg2-binary
+SQLAlchemy
+plotly
+millify
